@@ -22,7 +22,6 @@ ThreadSetup.wixpdb
 # Auxiliary Files
 *.obj
 *.wixobj
-*.wixpdb
 *.tmp
 *.tmp.bat
 *.tmp.ini

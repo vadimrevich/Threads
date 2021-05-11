@@ -16,7 +16,7 @@ SetupLogging=yes
 UsePreviousAppDir=yes
 DisableStartupPrompt=yes
 Output=yes
-OutputDir=C:\CODE\Compile
+OutputDir=e:\yuden\Compile
 OutputBaseFilename=ThreadsSetup
 AllowNoIcons=True
 AppPublisher=New Internet Technologies Inc.
@@ -28,7 +28,7 @@ VersionInfoTextVersion=Version 1.0.0.0_alpha
 VersionInfoCopyright=Copyright (c) New Internet Technologies, 2019
 VersionInfoProductName=Exponenta Threads Packages
 VersionInfoProductVersion=1.0.0.0
-Password=MyAdminPassword
+Password=Admin01234
 RestartIfNeededByRun=False
 SolidCompression=True
 
